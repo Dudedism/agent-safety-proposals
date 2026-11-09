@@ -5,7 +5,7 @@ It collects the test scenarios we are considering, the harness we would run them
 found. Every entry names who proposed it. Edit this file directly (pencil icon on GitHub) or open a pull
 request; add your name to anything you add or change.
 
-Team: Lars Buxmann, _name_, _name_. Supervisor: _name_.
+Team: Lars Buxmann, Arda, Abdelrahman. Supervisor: Alessandro Pegoraro.
 
 ## 1. Harness sketch
 
